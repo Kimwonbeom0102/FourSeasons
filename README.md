@@ -14,7 +14,6 @@ Blender, Unity, MadMapper를 이용해 사계절을 주제로 제작된 미디�
 ---
 
 ## 📄 자료 및 영상  
-- [발표자료 PDF](https://drive.google.com/file/d/1oYWfMHHxdrwE6tudiQZyfq7GnZuj07HI/view?usp=drive_link)  
 - [결과물 영상 (Drive)](https://drive.google.com/file/d/1XljlmIJ9RaE212VBcE6cLzGSM-I_I4Vo/view?usp=drive_link)  
 - [결과물 영상 (YouTube)](https://youtu.be/tkhlJgrF7c8)
 
