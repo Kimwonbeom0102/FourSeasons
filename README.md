@@ -60,15 +60,15 @@ Blender, Unity, MadMapper를 활용하여 3D 콘텐츠를 실제 오브젝트에
 ---
 
 ## 📸 결과물
-
-- 🎥 [YouTube 결과 영상](https://your-youtube-link.com) *(링크는 실제 주소로 대체)*  
-- 📂 [Google Drive 영상 자료](https://your-drive-link.com) *(링크는 실제 주소로 대체)*
+- [![FourSeasons YouTube Preview](https://img.youtube.com/vi/tkhlJgrF7c8/maxresdefault.jpg)](https://youtu.be/tkhlJgrF7c8)
+- 🎥 [YouTube 결과 영상](https://youtu.be/tkhlJgrF7c8) *(링크는 실제 주소로 대체)*  
+- 📂 [Google Drive 영상 자료](https://drive.google.com/file/d/1XljlmIJ9RaE212VBcE6cLzGSM-I_I4Vo/view?pli=1) *(링크는 실제 주소로 대체)*
 
 ---
 
 ## 🔍 참고 자료
 
-- 📘 [아나모픽 관련 Notion 정리](https://your-notion-link.com)
+- 📘 [아나모픽 관련 Notion 정리](https://www.notion.so/Anamorphic-1544b04e10ea80e69f7cc01acfe38713)
 
 ---
 
