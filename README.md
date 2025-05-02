@@ -1,4 +1,5 @@
-# 🌸 FourSeasons – 사계절 테마 미디어 아트 (Projection Mapping)
+#  FourSeasons 
+프로젝션 매핑을 활용한 미디어 작품
 
 **FourSeasons**는 사계절(봄, 여름, 가을, 겨울)을 테마로 한 미디어 아트 작품입니다.  
 Blender, Unity, MadMapper를 활용하여 3D 콘텐츠를 실제 오브젝트에 프로젝션 매핑으로 출력하고, 계절의 변화와 자연의 흐름을 몰입감 있게 시각화하였습니다.
