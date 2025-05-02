@@ -14,7 +14,9 @@ Blender, Unity, MadMapper를 활용하여 3D 콘텐츠를 실제 오브젝트에
 - **개발 기간**: 1주
 - **개발 인원**: 2인  (협업 프로젝트)
 - **사용 툴**: Blender, Unity, MadMapper
-
+<a href="https://youtu.be/tkhlJgrF7c8" target="_blank">
+  <img src="https://img.youtube.com/vi/tkhlJgrF7c8/maxresdefault.jpg" alt="FourSeasons YouTube Preview" width="600"/>
+</a>
 ---
 
 ## 🎯 기획 의도
