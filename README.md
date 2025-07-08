@@ -6,7 +6,7 @@ Blender, Unity, MadMapper를 활용하여 3D 콘텐츠를 실제 오브젝트에
 
 ---
 
-## 📌 프로젝트 개요
+##  프로젝트 개요
 
 - **장르**: 미디어 아트 / 프로젝션 매핑
 - **주제**: 사계절의 시각적 표현 (봄, 여름, 가을, 겨울)
@@ -17,15 +17,15 @@ Blender, Unity, MadMapper를 활용하여 3D 콘텐츠를 실제 오브젝트에
 
 ---
 
-## 🎯 기획 의도
+##  기획 의도
 
 > 단순히 화면 속에서만 존재하는 디지털 콘텐츠를 넘어서, 현실 공간과 상호작용하는 감각적 미디어 아트를 구현하고자 하였습니다. 사계절의 색감과 감성을 극대화하여 관람자가 직접 ‘자연의 흐름’을 체험하도록 구성하였습니다.
 
 ---
 
-## 🛠 기술 스택 및 구현 요소
+##  기술 스택 및 구현 요소
 
-### 🔧 사용 툴
+###  사용 툴
 
 - **Unity**  
   - 씬 구성 및 조명, 파티클 시스템을 통한 시각 효과  
@@ -39,7 +39,7 @@ Blender, Unity, MadMapper를 활용하여 3D 콘텐츠를 실제 오브젝트에
   - 실제 물체 표면에 콘텐츠를 정확히 매핑  
   - 프로젝션 위치 보정 및 출력
 
-### 💡 주요 구현 요소
+###  주요 구현 요소
 
 - 계절에 따라 전환되는 환경 효과 (눈, 낙엽, 꽃잎 등)
 - 빛과 그림자를 활용한 몰입감 있는 시각 연출
@@ -48,7 +48,7 @@ Blender, Unity, MadMapper를 활용하여 3D 콘텐츠를 실제 오브젝트에
 
 ---
 
-## 👤 나의 역할
+##  나의 역할
 
 - **프로젝트 기획**: 레퍼런스 분석 및 사계절 각각의 시각적 특징을 구상
 - **3D 제작 및 애니메이션**: 사계절 테마 디자인, 3D 모델링 및 애니메이션
@@ -58,19 +58,19 @@ Blender, Unity, MadMapper를 활용하여 3D 콘텐츠를 실제 오브젝트에
 
 ---
 
-## 📸 결과물
+##  결과물
 <a href="https://youtu.be/tkhlJgrF7c8" target="_blank">
   <img src="https://img.youtube.com/vi/tkhlJgrF7c8/maxresdefault.jpg" alt="FourSeasons YouTube Preview" width="600"/>
 </a>
 
-- 🎥 [YouTube 결과 영상](https://youtu.be/tkhlJgrF7c8) 
-- 📂 [Google Drive 영상 자료](https://drive.google.com/file/d/1XljlmIJ9RaE212VBcE6cLzGSM-I_I4Vo/view?pli=1) 
+-  [YouTube 결과 영상](https://youtu.be/tkhlJgrF7c8) 
+-  [Google Drive 영상 자료](https://drive.google.com/file/d/1XljlmIJ9RaE212VBcE6cLzGSM-I_I4Vo/view?pli=1) 
 
 ---
 
-## 🔍 참고 자료
+##  참고 자료
 
-- 📘 [아나모픽 관련 Notion 정리](https://www.notion.so/Anamorphic-1544b04e10ea80e69f7cc01acfe38713)
+-  [아나모픽 관련 Notion 정리](https://www.notion.so/Anamorphic-1544b04e10ea80e69f7cc01acfe38713)
 
 ---
 
